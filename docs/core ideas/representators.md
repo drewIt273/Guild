@@ -265,3 +265,9 @@ Implementation roadmap (practical)
 Final verdict (straight talk)
 
 If you want Guild to be a practical interop layer and a reactive GUI language, representators are a high-value feature — especially as explicit, typed handles for foreign objects. But don’t over-automate: require explicit foreign declarations, start read-only, add caching and lifetime controls, and give strong tooling and warnings.
+
+*Instance by DrewIt*
+
+[instantdrewit@gmail.com](instantdrewit@gmail.com)
+
+[GitHub](https://github.com/drewIt273)
