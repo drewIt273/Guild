@@ -1,3 +1,6 @@
+## Representators in Guild
+This is a summary of a chat I made with ChatGPT about this idea. What is written under my name "Andrew" are exactly what I said and what is written under "ChatGPT" are GPT's answers. Feel free to make any constructive criticism even by email.
+
 ### Andrew
 
 Let us implement what is a representator. It is a name that represents something else. They can only be declared with the let keyword and in the form:
