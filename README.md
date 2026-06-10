@@ -46,7 +46,8 @@ Not all components are implemented yet. Some exist only as design drafts or prot
 ## 📁 Project Status
 
 This repository currently contains:
-- Design documents and notes
+- Design documents and notes.
+- To have a look on my ideas, please visit the folder `docs/core ideas`.
 
 Expect breaking changes, incomplete features, and frequent refactoring.
 
